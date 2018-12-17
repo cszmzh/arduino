@@ -1,4 +1,7 @@
-int servopin=7;//定义数字接口7 连接伺服舵机信号线
+/*
+    author-BA_NANA 天津理工大学
+*/
+int servopin=7;//定义数字接口7 连接伺服舵机信号线 根据实际情况修改
 int myangle;//定义角度变量
 int pulsewidth;//定义脉宽变量
 float dis,Time;
